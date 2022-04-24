@@ -23,7 +23,7 @@ public class Human : Entity {
     [SyncVar]public int curItem = 0;
     [SyncVar]public Item curWeapon;
 
-    public SyncListItem items;
+    public SyncListItem items = new SyncListItem();
 
     [SyncVar(hook = "UpdateTorso")] public Item curTorso;
     [SyncVar(hook = "UpdatePants")] public Item curPants;
@@ -36,10 +36,6 @@ public class Human : Entity {
     public float runSpeed = 2f;
 
     float speed;
-
-
-
-
 
     [Header("- render")]
     public SpriteRenderer headRenderer;
@@ -64,12 +60,6 @@ public class Human : Entity {
     [SyncVar] float attackShowTimer;
 
 
-   
-
-    
-
-
-
     public enum ActionType
     {
         idle,
@@ -79,16 +69,6 @@ public class Human : Entity {
     }
 
   
-
-
-
-
-
-
-
-
-
-
 
 
     void Awake()
@@ -101,6 +81,8 @@ public class Human : Entity {
     {
         if (!isServer) return;
 
+        
+
         //Players autoteam
         int red = 0;
         int blue = 0;
@@ -112,6 +94,7 @@ public class Human : Entity {
         CmdServerSetTeam((red < blue) ? 0 : 1);
     }
 
+
     public override void OnStartClient()
     {
         base.OnStartClient();
@@ -119,22 +102,10 @@ public class Human : Entity {
 
 
 
-
-
-
     public override void OnStartLocalPlayer(){
         base.OnStartLocalPlayer();
         my = this;
     }
-
-    
-
-
-
-
-    
-
-    
 
 
 
@@ -151,11 +122,11 @@ public class Human : Entity {
 
 
         ///////////////////////////////////
-        if(items!=null)
+        /*if(items!=null)
         for (int i = 0; i < items.Count; i++)
         {
             print(items[i].name + ",   " + items[i].count + "/"+items[i].maxCount + ",       " + items[i].fireRate);
-        }
+        }*/
 
 
         Move();
