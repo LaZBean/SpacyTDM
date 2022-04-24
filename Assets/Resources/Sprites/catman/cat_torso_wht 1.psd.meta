@@ -1,0 +1,2138 @@
+fileFormatVersion: 2
+guid: fc59730e3d6428c40ac0c7f50a4129df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: male_torso_wht_0
+  - first:
+      213: 21300002
+    second: male_torso_wht_1
+  - first:
+      213: 21300004
+    second: male_torso_wht_2
+  - first:
+      213: 21300006
+    second: male_torso_wht_3
+  - first:
+      213: 21300008
+    second: male_torso_wht_4
+  - first:
+      213: 21300010
+    second: male_torso_wht_5
+  - first:
+      213: 21300012
+    second: male_torso_wht_6
+  - first:
+      213: 21300014
+    second: male_torso_wht_7
+  - first:
+      213: 21300016
+    second: male_torso_wht_8
+  - first:
+      213: 21300018
+    second: male_torso_wht_9
+  - first:
+      213: 21300020
+    second: male_torso_wht_10
+  - first:
+      213: 21300022
+    second: male_torso_wht_11
+  - first:
+      213: 21300024
+    second: male_torso_wht_12
+  - first:
+      213: 21300026
+    second: male_torso_wht_13
+  - first:
+      213: 21300028
+    second: male_torso_wht_14
+  - first:
+      213: 21300030
+    second: male_torso_wht_15
+  - first:
+      213: 21300032
+    second: male_torso_wht_16
+  - first:
+      213: 21300034
+    second: male_torso_wht_17
+  - first:
+      213: 21300036
+    second: male_torso_wht_18
+  - first:
+      213: 21300038
+    second: male_torso_wht_19
+  - first:
+      213: 21300040
+    second: male_torso_wht_20
+  - first:
+      213: 21300042
+    second: male_torso_wht_21
+  - first:
+      213: 21300044
+    second: male_torso_wht_22
+  - first:
+      213: 21300046
+    second: male_torso_wht_23
+  - first:
+      213: 21300048
+    second: male_torso_wht_24
+  - first:
+      213: 21300050
+    second: male_torso_wht_25
+  - first:
+      213: 21300052
+    second: male_torso_wht_26
+  - first:
+      213: 21300054
+    second: male_torso_wht_27
+  - first:
+      213: 21300056
+    second: male_torso_wht_28
+  - first:
+      213: 21300058
+    second: male_torso_wht_29
+  - first:
+      213: 21300060
+    second: male_torso_wht_30
+  - first:
+      213: 21300062
+    second: male_torso_wht_31
+  - first:
+      213: 21300064
+    second: male_torso_wht_32
+  - first:
+      213: 21300066
+    second: male_torso_wht_33
+  - first:
+      213: 21300068
+    second: male_torso_wht_34
+  - first:
+      213: 21300070
+    second: male_torso_wht_35
+  - first:
+      213: 21300072
+    second: male_torso_wht_36
+  - first:
+      213: 21300074
+    second: male_torso_wht_37
+  - first:
+      213: 21300076
+    second: male_torso_wht_38
+  - first:
+      213: 21300078
+    second: male_torso_wht_39
+  - first:
+      213: 21300080
+    second: male_torso_wht_40
+  - first:
+      213: 21300082
+    second: male_torso_wht_41
+  - first:
+      213: 21300084
+    second: male_torso_wht_42
+  - first:
+      213: 21300086
+    second: male_torso_wht_43
+  - first:
+      213: 21300088
+    second: male_torso_wht_44
+  - first:
+      213: 21300090
+    second: male_torso_wht_45
+  - first:
+      213: 21300092
+    second: male_torso_wht_46
+  - first:
+      213: 21300094
+    second: male_torso_wht_47
+  - first:
+      213: 21300096
+    second: male_torso_wht_48
+  - first:
+      213: 21300098
+    second: male_torso_wht_49
+  - first:
+      213: 21300100
+    second: male_torso_wht_50
+  - first:
+      213: 21300102
+    second: male_torso_wht_51
+  - first:
+      213: 21300104
+    second: male_torso_wht_52
+  - first:
+      213: 21300106
+    second: male_torso_wht_53
+  - first:
+      213: 21300108
+    second: male_torso_wht_54
+  - first:
+      213: 21300110
+    second: male_torso_wht_55
+  - first:
+      213: 21300112
+    second: male_torso_wht_56
+  - first:
+      213: 21300114
+    second: male_torso_wht_57
+  - first:
+      213: 21300116
+    second: male_torso_wht_58
+  - first:
+      213: 21300118
+    second: male_torso_wht_59
+  - first:
+      213: 21300120
+    second: male_torso_wht_60
+  - first:
+      213: 21300122
+    second: male_torso_wht_61
+  - first:
+      213: 21300124
+    second: male_torso_wht_62
+  - first:
+      213: 21300126
+    second: male_torso_wht_63
+  - first:
+      213: 21300128
+    second: male_torso_wht_64
+  - first:
+      213: 21300130
+    second: male_torso_wht_65
+  - first:
+      213: 21300132
+    second: male_torso_wht_66
+  - first:
+      213: 21300134
+    second: male_torso_wht_67
+  - first:
+      213: 21300136
+    second: male_torso_wht_68
+  - first:
+      213: 21300138
+    second: male_torso_wht_69
+  - first:
+      213: 21300140
+    second: male_torso_wht_70
+  - first:
+      213: 21300142
+    second: male_torso_wht_71
+  - first:
+      213: 21300144
+    second: cat_torso_wht 1_0
+  - first:
+      213: 21300146
+    second: cat_torso_wht 1_1
+  - first:
+      213: 21300148
+    second: cat_torso_wht 1_2
+  - first:
+      213: 21300150
+    second: cat_torso_wht 1_3
+  - first:
+      213: 21300152
+    second: cat_torso_wht 1_4
+  - first:
+      213: 21300154
+    second: cat_torso_wht 1_5
+  - first:
+      213: 21300156
+    second: cat_torso_wht 1_6
+  - first:
+      213: 21300158
+    second: cat_torso_wht 1_7
+  - first:
+      213: 21300160
+    second: cat_torso_wht 1_8
+  - first:
+      213: 21300162
+    second: cat_torso_wht 1_9
+  - first:
+      213: 21300164
+    second: cat_torso_wht 1_10
+  - first:
+      213: 21300166
+    second: cat_torso_wht 1_11
+  - first:
+      213: 21300168
+    second: cat_torso_wht 1_12
+  - first:
+      213: 21300170
+    second: cat_torso_wht 1_13
+  - first:
+      213: 21300172
+    second: cat_torso_wht 1_14
+  - first:
+      213: 21300174
+    second: cat_torso_wht 1_15
+  - first:
+      213: 21300176
+    second: cat_torso_wht 1_16
+  - first:
+      213: 21300178
+    second: cat_torso_wht 1_17
+  - first:
+      213: 21300180
+    second: cat_torso_wht 1_18
+  - first:
+      213: 21300182
+    second: cat_torso_wht 1_19
+  - first:
+      213: 21300184
+    second: cat_torso_wht 1_20
+  - first:
+      213: 21300186
+    second: cat_torso_wht 1_21
+  - first:
+      213: 21300188
+    second: cat_torso_wht 1_22
+  - first:
+      213: 21300190
+    second: cat_torso_wht 1_23
+  - first:
+      213: 21300192
+    second: cat_torso_wht 1_24
+  - first:
+      213: 21300194
+    second: cat_torso_wht 1_25
+  - first:
+      213: 21300196
+    second: cat_torso_wht 1_26
+  - first:
+      213: 21300198
+    second: cat_torso_wht 1_27
+  - first:
+      213: 21300200
+    second: cat_torso_wht 1_28
+  - first:
+      213: 21300202
+    second: cat_torso_wht 1_29
+  - first:
+      213: 21300204
+    second: cat_torso_wht 1_30
+  - first:
+      213: 21300206
+    second: cat_torso_wht 1_31
+  - first:
+      213: 21300208
+    second: cat_torso_wht 1_32
+  - first:
+      213: 21300210
+    second: cat_torso_wht 1_33
+  - first:
+      213: 21300212
+    second: cat_torso_wht 1_34
+  - first:
+      213: 21300214
+    second: cat_torso_wht 1_35
+  - first:
+      213: 21300216
+    second: cat_torso_wht 1_36
+  - first:
+      213: 21300218
+    second: cat_torso_wht 1_37
+  - first:
+      213: 21300220
+    second: cat_torso_wht 1_38
+  - first:
+      213: 21300222
+    second: cat_torso_wht 1_39
+  - first:
+      213: 21300224
+    second: cat_torso_wht 1_40
+  - first:
+      213: 21300226
+    second: cat_torso_wht 1_41
+  - first:
+      213: 21300228
+    second: cat_torso_wht 1_42
+  - first:
+      213: 21300230
+    second: cat_torso_wht 1_43
+  - first:
+      213: 21300232
+    second: cat_torso_wht 1_44
+  - first:
+      213: 21300234
+    second: cat_torso_wht 1_45
+  - first:
+      213: 21300236
+    second: cat_torso_wht 1_46
+  - first:
+      213: 21300238
+    second: cat_torso_wht 1_47
+  - first:
+      213: 21300240
+    second: cat_torso_wht 1_48
+  - first:
+      213: 21300242
+    second: cat_torso_wht 1_49
+  - first:
+      213: 21300244
+    second: cat_torso_wht 1_50
+  - first:
+      213: 21300246
+    second: cat_torso_wht 1_51
+  - first:
+      213: 21300248
+    second: cat_torso_wht 1_52
+  - first:
+      213: 21300250
+    second: cat_torso_wht 1_53
+  - first:
+      213: 21300252
+    second: cat_torso_wht 1_54
+  - first:
+      213: 21300254
+    second: cat_torso_wht 1_55
+  - first:
+      213: 21300256
+    second: cat_torso_wht 1_56
+  - first:
+      213: 21300258
+    second: cat_torso_wht 1_57
+  - first:
+      213: 21300260
+    second: cat_torso_wht 1_58
+  - first:
+      213: 21300262
+    second: cat_torso_wht 1_59
+  - first:
+      213: 21300264
+    second: cat_torso_wht 1_60
+  - first:
+      213: 21300266
+    second: cat_torso_wht 1_61
+  - first:
+      213: 21300268
+    second: cat_torso_wht 1_62
+  - first:
+      213: 21300270
+    second: cat_torso_wht 1_63
+  - first:
+      213: 21300272
+    second: cat_torso_wht 1_64
+  - first:
+      213: 21300274
+    second: cat_torso_wht 1_65
+  - first:
+      213: 21300276
+    second: cat_torso_wht 1_66
+  - first:
+      213: 21300278
+    second: cat_torso_wht 1_67
+  - first:
+      213: 21300280
+    second: cat_torso_wht 1_68
+  - first:
+      213: 21300282
+    second: cat_torso_wht 1_69
+  - first:
+      213: 21300284
+    second: cat_torso_wht 1_70
+  - first:
+      213: 21300286
+    second: cat_torso_wht 1_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cat_torso_wht 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aa9fe3a34f87041a67688cee805bd1
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 55
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568b2c09208615f468adfb65b99c2462
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 55
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82041cf1aa2c2b64c865471de452a7b6
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 55
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a903e461b60cc16489c6a7fc315d900b
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 55
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b4bc6f5325d9d4095782706a5b88e8
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149d98d950363484d94c854ea4132f79
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 55
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cc1c2643c6f6f4b92a2d8c48872803
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 55
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc7413bbadd48f4bb713c5d1bbdbcc6
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 55
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb382f9652604a84db300bb05080bd54
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 55
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c083f13c6a62c943a471a804b6897e7
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 55
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb98cb4965ccbb24babbe1e488780cb0
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 55
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd64eb58bbd1084ab032c9bf23cb73b
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bcb25727870d84188bc06a872b6c0e
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e354f4d1b71bfa44bff1530aae4277a
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e68253b5b49018428213250744b64ce
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef8cebd241fbd04396b0774b79174e5
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906b8bfab19bf85409233f5cd6221dc4
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d362883546b8e4a9d82dde5bf5aac0
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50f08dccea4ab54caaa2da15b96193d
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb6dbbd4c827294d9153cd203253856
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e5ad31a68dc5c4cb1c6c1ad0d55c0f
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0094afd4f97d342a0fb4a2926c4260
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d670c4cce2365498b1a5256e45a5a3
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_23
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51018e080520c394384fff4c5dbe5137
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2af5b128bbf3847994d0cb7b1a5620
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b951f407775546c4fb3e0aa42279dbb3
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ecb3e4e3464fa4695414ac6e417afb
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fc654ee9f1efa42a71648e315e8b47
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b726b063b6bfb24dabe4b64c693d477
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d391431daeef4e14dbb7ee6ecab49a2b
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32633bd5075abb2428dae0e5711bf266
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f2fa25becc95148a4861d44dac3345
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dce901df2694940b7a98b7df0a0661
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ff10a3b6479184194c790dedfc0fe4
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a400c027c1ffc8448fe641e57286e53
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_35
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bd89d3aa28bbd4e957bcd191a38d65
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b74ca53b80ed04aa0056f7c7a23a45
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b92d27c9642cb46841700f08c61cdf
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c62918d5e7eb934e93e8a39a2d8662e
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea52f5aa63c4bf4ca5a0cfb1efcfe77
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb0ebc1dfd544041ab6ee4be282a6d7
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_41
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4439d4f989d9eb41a47fe4c9d3e745e
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c914b28d1f2cc9429ed2eeb88e1bb28
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a45f229d38e34f4db63ff4b0b9a8b07
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_44
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934de6a2cb432f940aa5c5731e05b4b8
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4316aad29d6e4ff44af764702572181d
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_46
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2918065e1f069c1449d231eb8cba6144
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_47
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b47cb184a7a5a44ea47cb0879f94f64
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4279b3e21f5d084409fcd58d8842f5cf
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6063942531f61354f85f7b87e1f1a716
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_50
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531a77e5e5f8d3146aed38ab6c5142c1
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_51
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f1e03feace2eb45aa7c4ca01156d86
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_52
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda52d3e29fdb5b4f892e62d620094a2
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_53
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e39f1cdbe454c9408cd382564638445
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64e6430f6716ec438c8157d1a7e8ad6
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_55
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fde2f35d71cf548a06cc2859e6b368
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_56
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5fd67b429dd9b42a412f424feb8c1d
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81edc2819417b36469a178a2530bd851
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_58
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892bba6462f449141bcc18fd65d4e949
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_59
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c94b4c50b84424c9d0f315c473acf5
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ead147003caa74c84cd38ffbe7107b
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_61
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e68c72dcc4c4994d80c1d60910199eb
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_62
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6836f725946cb40bc903bcc8851cbc
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_63
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a469834462a5ade4291625d62c595759
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_64
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7390c7e02fe29cd489aafd9974f0ed0f
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_65
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ede6a4196933774cae1effcc54d906e
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_66
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c42dacbc10297544a33737b1fc08572
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_67
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e40d8df205c53449f1f9f76398d5d8
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_68
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233532ab8521cfa4ba29cc888b886be4
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_69
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521dc086e00845b46801131ba89a5b28
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_70
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da92eeab72ad9645b608331f05d2264
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_torso_wht 1_71
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78acee5fd0a0fe14aa68896975fa9bfb
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0b36a7ad52f90e1418c627139d3de313
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cat_torso_wht 1_17: 21300178
+      cat_torso_wht 1_33: 21300210
+      cat_torso_wht 1_56: 21300256
+      cat_torso_wht 1_63: 21300270
+      cat_torso_wht 1_29: 21300202
+      cat_torso_wht 1_41: 21300226
+      cat_torso_wht 1_52: 21300248
+      cat_torso_wht 1_23: 21300190
+      cat_torso_wht 1_18: 21300180
+      cat_torso_wht 1_55: 21300254
+      cat_torso_wht 1_60: 21300264
+      cat_torso_wht 1_7: 21300158
+      cat_torso_wht 1_34: 21300212
+      cat_torso_wht 1_0: 21300144
+      cat_torso_wht 1_31: 21300206
+      cat_torso_wht 1_1: 21300146
+      cat_torso_wht 1_12: 21300168
+      cat_torso_wht 1_59: 21300262
+      cat_torso_wht 1_22: 21300188
+      cat_torso_wht 1_51: 21300246
+      cat_torso_wht 1_49: 21300242
+      cat_torso_wht 1_36: 21300216
+      cat_torso_wht 1_65: 21300274
+      cat_torso_wht 1_2: 21300148
+      cat_torso_wht 1_66: 21300276
+      cat_torso_wht 1_71: 21300286
+      cat_torso_wht 1_50: 21300244
+      cat_torso_wht 1_6: 21300156
+      cat_torso_wht 1_30: 21300204
+      cat_torso_wht 1_62: 21300268
+      cat_torso_wht 1_25: 21300194
+      cat_torso_wht 1_53: 21300250
+      cat_torso_wht 1_68: 21300280
+      cat_torso_wht 1_10: 21300164
+      cat_torso_wht 1_43: 21300230
+      cat_torso_wht 1_61: 21300266
+      cat_torso_wht 1_28: 21300200
+      cat_torso_wht 1_5: 21300154
+      cat_torso_wht 1_11: 21300166
+      cat_torso_wht 1_44: 21300232
+      cat_torso_wht 1_40: 21300224
+      cat_torso_wht 1_70: 21300284
+      cat_torso_wht 1_13: 21300170
+      cat_torso_wht 1_16: 21300176
+      cat_torso_wht 1_24: 21300192
+      cat_torso_wht 1_27: 21300198
+      cat_torso_wht 1_21: 21300186
+      cat_torso_wht 1_26: 21300196
+      cat_torso_wht 1_42: 21300228
+      cat_torso_wht 1_45: 21300234
+      cat_torso_wht 1_35: 21300214
+      cat_torso_wht 1_39: 21300222
+      cat_torso_wht 1_54: 21300252
+      cat_torso_wht 1_67: 21300278
+      cat_torso_wht 1_47: 21300238
+      cat_torso_wht 1_58: 21300260
+      cat_torso_wht 1_15: 21300174
+      cat_torso_wht 1_64: 21300272
+      cat_torso_wht 1_19: 21300182
+      cat_torso_wht 1_9: 21300162
+      cat_torso_wht 1_8: 21300160
+      cat_torso_wht 1_48: 21300240
+      cat_torso_wht 1_3: 21300150
+      cat_torso_wht 1_57: 21300258
+      cat_torso_wht 1_37: 21300218
+      cat_torso_wht 1_46: 21300236
+      cat_torso_wht 1_20: 21300184
+      cat_torso_wht 1_14: 21300172
+      cat_torso_wht 1_4: 21300152
+      cat_torso_wht 1_32: 21300208
+      cat_torso_wht 1_38: 21300220
+      cat_torso_wht 1_69: 21300282
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

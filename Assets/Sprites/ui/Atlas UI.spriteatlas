@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4be6fd42774829245b31e7df65fdbc95, type: 3}
+    - {fileID: 2800000, guid: ccb5c203237ffd44dac81ed7ca88610d, type: 3}
+    - {fileID: 2800000, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+    - {fileID: 2800000, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300002, guid: 4be6fd42774829245b31e7df65fdbc95, type: 3}
+  - {fileID: 21300004, guid: 4be6fd42774829245b31e7df65fdbc95, type: 3}
+  - {fileID: 21300006, guid: 4be6fd42774829245b31e7df65fdbc95, type: 3}
+  - {fileID: 21300000, guid: 4be6fd42774829245b31e7df65fdbc95, type: 3}
+  - {fileID: 21300008, guid: 4be6fd42774829245b31e7df65fdbc95, type: 3}
+  - {fileID: 21300008, guid: ccb5c203237ffd44dac81ed7ca88610d, type: 3}
+  - {fileID: 21300004, guid: ccb5c203237ffd44dac81ed7ca88610d, type: 3}
+  - {fileID: 21300014, guid: ccb5c203237ffd44dac81ed7ca88610d, type: 3}
+  - {fileID: 21300010, guid: ccb5c203237ffd44dac81ed7ca88610d, type: 3}
+  - {fileID: 21300012, guid: ccb5c203237ffd44dac81ed7ca88610d, type: 3}
+  - {fileID: 21300000, guid: ccb5c203237ffd44dac81ed7ca88610d, type: 3}
+  - {fileID: 21300006, guid: ccb5c203237ffd44dac81ed7ca88610d, type: 3}
+  - {fileID: 21300002, guid: ccb5c203237ffd44dac81ed7ca88610d, type: 3}
+  - {fileID: 21300034, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300058, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300020, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300028, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300062, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300064, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300054, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300030, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300048, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300046, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300052, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300050, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300040, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300038, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300044, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300042, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300060, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300036, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300032, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300026, guid: 9ce7df0a95275554b8020fb7a1b0fbc9, type: 3}
+  - {fileID: 21300090, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300080, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300082, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300076, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300084, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300078, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300098, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300100, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300096, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300094, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300070, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300088, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300118, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300112, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300114, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300116, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300092, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300068, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300072, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300066, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300086, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300108, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300110, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300104, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300106, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300102, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  - {fileID: 21300074, guid: 35b36f0c7741b4448b6fe795880f9d7a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ui.guns_1
+  - icon.weapon.sniper
+  - icon.weapon.rocket
+  - icon.weapon.pistol
+  - icon.weapon.rifle
+  - ui.face4.small
+  - ui.face2.small
+  - ui.face4
+  - ui.face2
+  - ui.face3
+  - ui.face1
+  - ui.face3.small
+  - ui.face1.small
+  - ui.scroll.handler.hover
+  - ui.toggle.on.hover
+  - ui.slider.back
+  - ui.toggle.on
+  - ui.slider.handle
+  - ui.slider.fill
+  - ui.cursor8
+  - ui.scroll.back
+  - ui.cursor5
+  - ui.cursor4
+  - ui.cursor7
+  - ui.cursor6
+  - ui.cursor1
+  - ui.cursor0
+  - ui.cursor3
+  - ui.cursor2
+  - ui.toggle.off.hover
+  - ui.scroll.handler.active
+  - ui.scroll.handler
+  - ui.toggle.off
+  - ui.panel.right.button.journal
+  - ui_3_2
+  - ui_3_3
+  - ui_3_0
+  - ui.panel.right.button.inventory
+  - ui_3_1
+  - ui.panel.left.c
+  - ui.panel.left.q
+  - ui.panel.left.x
+  - ui.panel.left.z
+  - ui.weapon.line
+  - ui.panel.right.button.messages
+  - ui.panel.skill.f4
+  - ui.panel.skill.f1
+  - ui.panel.skill.f2
+  - ui.panel.skill.f3
+  - ui.panel.left.caps
+  - ui.inventory
+  - ui.weapon.line.2
+  - ui.map
+  - ui.panel.right.button.stats
+  - ui.panel.item.4
+  - ui.panel.item.5
+  - ui.panel.item.2
+  - ui.panel.item.3
+  - ui.panel.item.1
+  - ui.log.panel
+  m_RenderDataMap: {}
+  m_Tag: Atlas UI
+  m_IsVariant: 0

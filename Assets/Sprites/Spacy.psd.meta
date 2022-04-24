@@ -1,0 +1,657 @@
+fileFormatVersion: 2
+guid: d789ffcd6a2b2894f9682181d007d3f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: walk.0
+  - first:
+      213: 21300002
+    second: walk.1
+  - first:
+      213: 21300004
+    second: walk.2
+  - first:
+      213: 21300006
+    second: walk.3
+  - first:
+      213: 21300008
+    second: walk.4
+  - first:
+      213: 21300010
+    second: run.0
+  - first:
+      213: 21300012
+    second: run.1
+  - first:
+      213: 21300014
+    second: run.2
+  - first:
+      213: 21300016
+    second: run.3
+  - first:
+      213: 21300018
+    second: run.4
+  - first:
+      213: 21300020
+    second: sit.0
+  - first:
+      213: 21300022
+    second: sit.1
+  - first:
+      213: 21300024
+    second: sit.2
+  - first:
+      213: 21300026
+    second: ship
+  - first:
+      213: 21300028
+    second: walk.weapon.0
+  - first:
+      213: 21300030
+    second: walk.weapon.1
+  - first:
+      213: 21300032
+    second: walk.weapon.2
+  - first:
+      213: 21300034
+    second: walk.weapon.3
+  - first:
+      213: 21300036
+    second: walk.weapon.4
+  - first:
+      213: 21300038
+    second: run.weapon.0
+  - first:
+      213: 21300040
+    second: run.weapon.1
+  - first:
+      213: 21300042
+    second: run.weapon.2
+  - first:
+      213: 21300044
+    second: run.weapon.3
+  - first:
+      213: 21300046
+    second: run.weapon.4
+  - first:
+      213: 21300048
+    second: laserflash.0
+  - first:
+      213: 21300050
+    second: laserflash.1
+  - first:
+      213: 21300052
+    second: laserflash.3
+  - first:
+      213: 21300054
+    second: laserflash.4
+  - first:
+      213: 21300056
+    second: laserflash.5
+  - first:
+      213: 21300058
+    second: Spacy_0
+  - first:
+      213: 21300060
+    second: Spacy_1
+  - first:
+      213: 21300062
+    second: Spacy_2
+  - first:
+      213: 21300064
+    second: Spacy_3
+  - first:
+      213: 21300066
+    second: Spacy_4
+  - first:
+      213: 21300068
+    second: Spacy_5
+  - first:
+      213: 21300070
+    second: Spacy_6
+  - first:
+      213: 21300072
+    second: Spacy_7
+  - first:
+      213: 21300074
+    second: Spacy_8
+  - first:
+      213: 21300076
+    second: Spacy_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sit.0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 233
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e72a2703e8d8614496ee9f6f5612b41
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sit.1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 233
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c7986e627e2a445bc8094c5cf92291
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sit.2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 233
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c62ccd6221351c4fb7e3782ca639ad2
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 147
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518ab6d75a961e643ad0563038905d3e
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laserflash.0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d2a7bf6d9a10e42a563da7309599eb
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laserflash.1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 212
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35e48220a75e1e4cb5eadcadbea3fe7
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laserflash.3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 212
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb53914820c58a418829595b01d3302
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laserflash.4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 212
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba33024b531120a4ca273cccd8c82c77
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laserflash.5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 212
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05b6b86cf782d94d8442fe5718d4cb5
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacy_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 267
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad91c4bd6a3247c4c800b25b58b8fade
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacy_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 267
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ca3c86ed761dc40a5e396e97640391
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacy_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 267
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5bd1dc64a884b4c8134defec049bd1
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacy_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 267
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede24981c24337c45adf224c13e7b01e
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacy_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 267
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff64440eaaa37264f8213aab8f0e1133
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacy_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 256
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c3d16298192d548b72dc396272613f
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacy_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 256
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dd643eca8b31d43a11dbf9e53fdaca
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacy_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 256
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf841dbce6ab274e8b5b556d236b368
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacy_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 256
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f927f1bcf755c704a84f1a4c4bc0aa79
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacy_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 256
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaf280f7f90fa34397fb07496b49906
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 86515c414673ecd4899d7ba12a9dbbc7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spacy_5: 21300068
+      Spacy_4: 21300066
+      Spacy_7: 21300072
+      Spacy_6: 21300070
+      Spacy_3: 21300064
+      Spacy_8: 21300074
+      sit.0: 21300020
+      sit.1: 21300022
+      sit.2: 21300024
+      laserflash.4: 21300054
+      Spacy_2: 21300062
+      Spacy_1: 21300060
+      Spacy_0: 21300058
+      Spacy_9: 21300076
+      laserflash.5: 21300056
+      laserflash.3: 21300052
+      ship: 21300026
+      laserflash.0: 21300048
+      laserflash.1: 21300050
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
